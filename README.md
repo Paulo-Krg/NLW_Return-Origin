@@ -10,7 +10,7 @@
 </div>
 
 <!-- Some cool screenshots of the project: -->
-<!-- <img alt="" title="" src=".github/example.png" /> -->
+<img alt="Demonstration" title="Demonstration" src=".github/Demonstration.gif" />
 
 ## 💻 Project:
 A Simple Web Page Template with smooth scrolling.
